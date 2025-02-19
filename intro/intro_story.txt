@@ -1,0 +1,44 @@
+// **Música**: Música suave de fondo, tono misterioso que va aumentando en intensidad.
+
+// **Escena 1**: Pantalla en negro con el logo del juego. La música comienza suavemente.
+Texto en pantalla:
+"**Aldea Arcana** – Un lugar sagrado lleno de magia y paz."
+
+// **Escena 2**: La pantalla se funde a negro, el cielo se oscurece, y el sonido se intensifica. Mostrar la aldea brillante y mágica.
+Texto en pantalla:
+"Pero un antiguo mal llegó a este lugar. El **Señor Oscuro** invadió la aldea."
+
+// **Escena 3**: Imagen de un gran hechicero oscuro, con capa negra, ojos brillando de maldad. Al fondo se muestra un castillo sombrío.
+Texto en pantalla:
+"Con un hechizo prohibido, el Señor Oscuro subyugó a los magos, convirtiéndolos en sus siervos."
+
+// **Escena 4**: Mostrar a los magos de la aldea, con ojos rojos brillando, bajo el control del Señor Oscuro.
+Texto en pantalla:
+"La aldea cayó en el caos, y sus habitantes fueron corrompidos... todos, excepto uno."
+
+// **Escena 5**: Animación de **Geralt**, un mago joven, escapando de la aldea. Un resplandor mágico sale de sus manos mientras corre.
+Texto en pantalla:
+"**Geralt**, el último mago libre, escapó de la tormenta de oscuridad."
+
+// **Escena 6**: Geralt entra al bosque oscuro, luchando contra monstruos que protegen la aldea.
+Texto en pantalla:
+"A través de bosques oscuros y montañas sombrías, Geralt buscará el poder necesario para enfrentarse al mal."
+
+// **Escena 7**: Mostrar a Geralt enfrentando a un monstruo gigante en un paisaje sombrío, usando un hechizo de fuego o hielo.
+Texto en pantalla:
+"Con cada batalla, Geralt se hará más fuerte, descubriendo nuevas habilidades para derrotar al Señor Oscuro."
+
+// **Escena 8**: Mostrar a Geralt mirando un castillo oscuro a lo lejos, con el cielo nublado y tormentoso, preparándose para la batalla final.
+Texto en pantalla:
+"El destino de la aldea y de sus habitantes está en sus manos."
+
+// **Escena 9**: Música épica. Mostrar a Geralt acercándose al castillo, concentrado, mientras se prepara para enfrentar la batalla final.
+Texto en pantalla:
+"La batalla final determinará si la aldea volverá a la luz... o caerá en la oscuridad para siempre."
+
+// **Escena 10**: Pantalla negra, texto final en letras grandes:
+Texto en pantalla:
+"**Geralt**... El Último Hechicero."
+"¡La aventura comienza ahora!"
+
+// **Música**: Música épica se intensifica, y termina con un **sonido fuerte** al final del texto.

@@ -1,0 +1,4 @@
+pygame==2.5.2      # Motor principal del juego
+numpy==1.24.3      # Manejo de cálculos numéricos y matrices (puede ser útil en colisiones o física)
+pillow==10.0.0     # Manejo de imágenes (si necesitas procesar o modificar sprites)
+moviepy==1.0.3     # Para reproducir videos (si usas el video de introducción)
